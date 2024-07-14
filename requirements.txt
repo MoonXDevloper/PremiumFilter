@@ -33,3 +33,5 @@ pytz
 aiohttp
 aiohttp==3.8.3
 opencv-python
+coroutine
+asyncio
